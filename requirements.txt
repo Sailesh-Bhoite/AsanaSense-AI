@@ -1,0 +1,6 @@
+streamlit==1.47.0
+opencv-python
+mediapipe # You'll add this later for pose detection
+av
+streamlit-webrtc
+numpy
