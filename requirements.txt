@@ -3,3 +3,4 @@ opencv-python
 mediapipe
 streamlit-webrtc
 numpy
+av==14.4.0
